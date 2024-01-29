@@ -23,7 +23,7 @@
     "element-ready": "^3.0.0",
     "jquery": "^3.5.1",
     "jquery-ui": "^1.12.1",
-    "webextension-polyfill": "^0.3.1"
+    "webextension-polyfill": "^0.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
